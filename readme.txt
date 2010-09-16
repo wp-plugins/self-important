@@ -8,7 +8,7 @@ Stable tag: trunk
 This is not just a plugin, it symbolizes the hope and enthusiasm of all WordPress programmers, developers and designers everywhere. When activated you will become one of the three most important people in WordPress.
 
 == Description ==
-Do you want to be one of the three most important people in WordPress too?
+Do you want to be one of the <a href="http://seoserpent.com/wordpress/self-important">three most important people in WordPress</a> too?
 
 Now you can! Download and activate this plug-in and in your dashboard, you will see the proclamation: "Congratulations! You are now one of the three most important people in WordPress!".
 
